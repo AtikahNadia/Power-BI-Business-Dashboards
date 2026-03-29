@@ -30,3 +30,22 @@ This Power BI dashboard was developed to analyze the performance of retail trans
 ​
 <p align="center">
 <img width="686" height="389" alt="Online shopping summary dashboard" src="https://github.com/user-attachments/assets/06399396-0697-4f24-b364-40d582675964" />
+  
+___
+
+## Dashboard 3: Monthly Project Performance
+# Overview
+This Power BI dashboard was developed to monitor and evaluate technical quality metrics and audit compliance across multiple major energy projects (Petronas, Shell, BP, Exxon). The goal was to provide a centralized "Master Report" that tracks engineering integrity, construction quality, and project schedule adherence.
+<br />
+<h2>Key Metrics & Visualizations</h2>
+
+- <b>Audit & Compliance Tracking:</b>  Monitored Internal and External Audit Schedule Compliance and gap closure timeliness for Integrated Assurance findings.
+- <b>Engineering & Design Integrity:</b> Tracked Engineering Drawing Revisions (post-IFD/IFC), Variation Orders (VO) resulting from design changes, and overdue major design findings.
+- <b>Construction Quality Control:</b> Visualized Cumulative Weld Reject Rates (WRR) across various disciplines, including Process Piping, Structural Steel, Storage Tanks, and Pipelines.
+- <b>Operational Efficiency:</b> Measured Material Receiving Rejection Rates, RFI Performance Rates, and overdue status for NDT and Inspection Reports.
+- <b>​Non-Conformance Management:</b> Detailed tracking of NCR (Non-Conformance Report) closures and FAT/SAT Reject Rates for major equipment.
+
+​
+<p align="center">
+<img width="376" height="487" alt="Monthly project performance dashboard" src="https://github.com/user-attachments/assets/02dd927c-b4c1-40df-8231-84629fbf584f" />
+
